@@ -6,7 +6,6 @@
   "sidebar": [
     {
       "title": "Installtion",
-      "file": "installation.md",
       "children": ["Guide-to-install-Shtr-in-Vercel.md"]
     },
     {
