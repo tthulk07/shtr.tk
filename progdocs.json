@@ -5,11 +5,11 @@
   "indexDoc": "index.md",
   "sidebar": [
     {
-      "title": "Installtion",
-      "children": ["Guide-to-install-Shtr-in-Vercel.md"]
+      "file": "index.md"
     },
     {
-      "file": "index.md"
+      "title": "Installtion",
+      "children": ["Guide-to-install-Shtr-in-Vercel.md"]
     }
   ],
   "developers": [
