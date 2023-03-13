@@ -1,5 +1,5 @@
 ---
-title: Install Shtr In Vercel
+title: Vercel
 ---
 
 This guide includes every steps required for installing Shtr in Vercel.
