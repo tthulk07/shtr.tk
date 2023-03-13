@@ -18,16 +18,7 @@
       ]
     }
   ],
-  "developers": [
-    "projectashik",
-    {
-      "name": "Ashim Chapagain",
-      "gh": "ashimchapagain",
-      "bio": "A professional full stack web developer with all the knowledge of technology",
-      "twitter": "ChapagainAshik",
-      "avatar": "https://avatars.githubusercontent.com/u/47524279?v=4"
-    }
-  ],
+  "developers": ["projectashik"],
   "settings": {
     "contributors": true,
     "editOnGitHub": true
