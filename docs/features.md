@@ -1,3 +1,7 @@
+---
+title: Features
+---
+
 ## Open source and free
 
 Shtr. is free and open source available in MIT license on Github.

@@ -8,8 +8,15 @@
       "file": "index.md"
     },
     {
-      "title": "Installtion",
-      "children": ["Guide-to-install-Shtr-in-Vercel.md"]
+      "file": "features.md"
+    },
+    {
+      "title": "Deploy To",
+      "children": [
+        "Guide-to-install-Shtr-in-Vercel.md",
+        "guide-to-install-shtr-in-netlify.md",
+        "Guide-to-install-Shtr-in-Heroku.md"
+      ]
     }
   ],
   "developers": [

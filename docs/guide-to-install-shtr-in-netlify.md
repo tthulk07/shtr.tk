@@ -1,3 +1,7 @@
+---
+title: Netlify
+---
+
 This guide includes every steps required for installing Shtr in Netlify.
 
 - First create a PostgreSQL database, which you can get for free from the following platform.

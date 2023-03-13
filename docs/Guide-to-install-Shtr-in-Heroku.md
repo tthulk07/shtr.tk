@@ -1,3 +1,7 @@
+---
+title: Heroku
+---
+
 Here's a guide on deploying Shtr in Heroku.
 
 - Click on the button below to get started.
