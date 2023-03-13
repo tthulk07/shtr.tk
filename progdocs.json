@@ -1,0 +1,29 @@
+{
+  "title": "Shtr - More than a URL Shortner",
+  "description": "The only platform than can beat Bit.ly",
+  "landingMarkdown": "content.md",
+  "indexDoc": "index.md",
+  "sidebar": [
+    {
+      "title": "Installtion",
+      "children": ["installation/1.md", "installation/2.md"]
+    },
+    {
+      "file": "index.md"
+    }
+  ],
+  "developers": [
+    "projectashik",
+    {
+      "name": "Ashim Chapagain",
+      "gh": "ashimchapagain",
+      "bio": "A professional full stack web developer with all the knowledge of technology",
+      "twitter": "ChapagainAshik",
+      "avatar": "https://avatars.githubusercontent.com/u/47524279?v=4"
+    }
+  ],
+  "settings": {
+    "contributors": true,
+    "editOnGitHub": true
+  }
+}
