@@ -1,3 +1,7 @@
+---
+title: Install Shtr In Vercel
+---
+
 This guide includes every steps required for installing Shtr in Vercel.
 
 - First create a PostgreSQL database, which you can get for free from the following platform.
