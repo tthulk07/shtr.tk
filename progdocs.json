@@ -1,7 +1,6 @@
 {
   "title": "Shtr - More than a URL Shortner",
   "description": "The only platform than can beat Bit.ly",
-  "landingMarkdown": "content.md",
   "indexDoc": "index.md",
   "sidebar": [
     {
