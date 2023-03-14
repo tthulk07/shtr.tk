@@ -1,5 +1,6 @@
 ---
 title: Introducing Shtr
+description: Shtr is an open source URL shortener that provides a wide range of features to users.
 ---
 
 **Shtr** is an open source URL shortener that provides a wide range of features to users. With **Shtr**, you can shorten long URLs to make them more compact and easier to share or remember. In addition to basic URL shortening functionality, **Shtr** offers a number of advanced features, including:
